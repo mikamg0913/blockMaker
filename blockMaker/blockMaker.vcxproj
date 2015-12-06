@@ -12,7 +12,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="block.cpp" />
-    <ClCompile Include="colSel.cpp" />
     <ClCompile Include="InNum.cpp" />
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
@@ -166,7 +165,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="block.h" />
-    <ClInclude Include="colSel.h" />
     <ClInclude Include="InNum.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
